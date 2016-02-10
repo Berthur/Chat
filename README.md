@@ -14,3 +14,7 @@ What it does not:
 What there is direct support for but has yet to be implemented:
 - User commands
 - Better interface
+
+
+# Suggested way to run the application
+The server-side source code files can be turned into a Java jar file using the main function in the Launch.java file to launch the program. The client-side code is all contained by one file and can more easily be run directly. It too comes with a Java launcher class if preferred.
